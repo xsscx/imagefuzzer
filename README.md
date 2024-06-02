@@ -1,6 +1,6 @@
 # XNU Image Fuzzer 
 
-Last Updated: SUN 26 MAY 2024, 0800 EDT
+Last Updated: SUN 02 JUN 2024, 0800 EDT
 
 ## Project Summary
 
@@ -26,6 +26,9 @@ See URL https://github.com/xsscx/macos-research/tree/main/code/iOSOnMac
 
 #### Project Support
 - Open an Issue
+
+#### Project Documentation 
+URL https://xss.cx/public/docs/xnuimagefuzzer/
 
 ### whoami
 - I am David Hoyt
