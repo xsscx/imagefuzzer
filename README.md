@@ -17,13 +17,6 @@ The XNU Image Fuzzer Source Code contains a proof of concept implementation of a
 | iPhoneOS 17.5         | ✅     | ✅       |
 | VisionPro 1.2          | ✅     | ✅       |
 
-## XNU Image Tools
-- https://github.com/xsscx/xnuimagetools
-- Create random images for fuzzing
-
-## Command Line Version
-See URL https://github.com/xsscx/macos-research/tree/main/code/iOSOnMac
-
 #### Project Support
 - Open an Issue
 
@@ -124,5 +117,9 @@ Embedding fault mechanisms into a generic image and further processing it throug
    - Monitor for crashes, hangs, and other signs of vulnerabilities.
    - Collect and analyze the results to identify and understand the bugs found.
 
-### Conclusion
-Using fuzzed images enhances fuzzing effectiveness by uncovering edge cases, testing robustness, finding security vulnerabilities, and ensuring compatibility with various formats. This approach provides comprehensive evaluation and helps create more resilient software.
+## XNU Image Tools
+- https://github.com/xsscx/xnuimagetools
+- Create random images for fuzzing
+
+## Command Line Version
+See URL https://github.com/xsscx/macos-research/tree/main/code/iOSOnMac
